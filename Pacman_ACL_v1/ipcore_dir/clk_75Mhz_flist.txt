@@ -1,0 +1,3 @@
+# Output products list for <clk_75Mhz>
+clk_75Mhz.xco
+clk_75Mhz_flist.txt

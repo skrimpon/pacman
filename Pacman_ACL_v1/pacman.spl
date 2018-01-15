@@ -1,0 +1,18 @@
+[Inputs]
+clk
+reset
+pause
+SDI
+grid
+[Outputs]
+SS
+SDO
+SCLK
+Hsync
+Vsync
+speaker
+=RGB[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel pacman
+

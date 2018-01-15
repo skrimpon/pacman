@@ -1,0 +1,27 @@
+//! **************************************************************************
+// Written by: Map P.68d on Fri Aug 08 21:27:34 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "SS" LOCATE = SITE "K2" LEVEL 1;
+COMP "SDI" LOCATE = SITE "L4" LEVEL 1;
+COMP "SDO" LOCATE = SITE "K1" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "SCLK" LOCATE = SITE "L3" LEVEL 1;
+COMP "grid" LOCATE = SITE "T5" LEVEL 1;
+COMP "Hsync" LOCATE = SITE "N6" LEVEL 1;
+COMP "Vsync" LOCATE = SITE "P7" LEVEL 1;
+COMP "pause" LOCATE = SITE "T10" LEVEL 1;
+COMP "reset" LOCATE = SITE "V8" LEVEL 1;
+COMP "speaker" LOCATE = SITE "B2" LEVEL 1;
+COMP "RGB<0>" LOCATE = SITE "U7" LEVEL 1;
+COMP "RGB<1>" LOCATE = SITE "V7" LEVEL 1;
+COMP "RGB<2>" LOCATE = SITE "N7" LEVEL 1;
+COMP "RGB<3>" LOCATE = SITE "P8" LEVEL 1;
+COMP "RGB<4>" LOCATE = SITE "T6" LEVEL 1;
+COMP "RGB<5>" LOCATE = SITE "V6" LEVEL 1;
+COMP "RGB<6>" LOCATE = SITE "R7" LEVEL 1;
+COMP "RGB<7>" LOCATE = SITE "T7" LEVEL 1;
+COMP "siren_pin" LOCATE = SITE "B12" LEVEL 1;
+SCHEMATIC END;
+

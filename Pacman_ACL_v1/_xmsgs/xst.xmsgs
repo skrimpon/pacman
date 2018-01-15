@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="568" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 349: Constant value is truncated to fit in &lt;<arg fmt="%d" index="1">244</arg>&gt; bits.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\pacman_clock.v" Line 117: Assignment to <arg fmt="%s" index="1">clk0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\pacman_clock.v" Line 132: Assignment to <arg fmt="%s" index="1">locked_int</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\pacman_clock.v" Line 133: Assignment to <arg fmt="%s" index="1">status_int</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\vga_controler.v" Line 91: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\vga_controler.v" Line 96: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\board_controller.v" Line 445: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">18</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\half_map_mem.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">half_map_mem</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\board_controller.v" Line 536: Result of <arg fmt="%d" index="1">2</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\board_controller.v" Line 539: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 188: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 197: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 211: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 233: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 276: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 284: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 309: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 317: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 347: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 354: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 377: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 406: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 414: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 438: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 446: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 476: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 483: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 506: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 530: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 537: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 562: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 568: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 594: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 600: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 618: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 647: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 653: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 679: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 685: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 705: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 712: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 729: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 785: Result of <arg fmt="%d" index="1">15</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 789: Result of <arg fmt="%d" index="1">15</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 790: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 791: Result of <arg fmt="%d" index="1">15</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 792: Result of <arg fmt="%d" index="1">15</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 796: Result of <arg fmt="%d" index="1">15</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 807: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 808: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 819: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 820: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 821: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_controller.v" Line 822: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\pacmanRom.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">pacmanRom</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 128: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 129: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 190: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 198: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 204: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 210: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 223: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 228: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 238: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 243: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 251: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 268: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 276: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 282: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 288: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 301: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 306: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 316: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 321: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 329: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 339: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 347: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 353: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 359: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 372: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 379: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 387: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 394: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 402: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 411: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 419: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 425: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 431: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 444: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 451: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 459: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 466: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 474: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 540: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 541: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 542: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 543: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\blinky_controller.v" Line 563: Result of <arg fmt="%d" index="1">2</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 101: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 102: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 138: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 143: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 147: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 152: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 173: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 181: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 187: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 193: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 206: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 211: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 221: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 226: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 234: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 251: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 259: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 265: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 271: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 284: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 289: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 299: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 304: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 312: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 322: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 330: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 336: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 342: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 355: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 362: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 370: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 377: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 385: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 394: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 402: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 408: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 414: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 427: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 434: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 442: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 449: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 457: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 515: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 516: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 517: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 518: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pinky_controller.v" Line 536: Result of <arg fmt="%d" index="1">2</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 101: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 102: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 129: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 138: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 143: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 147: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 152: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 175: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 183: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 189: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 195: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 208: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 213: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 223: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 228: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 236: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 253: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 261: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 267: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 273: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 286: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 291: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 301: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 306: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 314: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 324: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 332: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 338: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 344: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 357: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 364: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 372: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 379: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 387: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 396: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 404: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 410: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 416: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 429: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 436: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 444: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 451: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 459: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 517: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 518: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 519: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 520: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\inky_controller.v" Line 538: Result of <arg fmt="%d" index="1">2</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 99: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 100: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 127: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 134: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 159: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 167: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 173: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 179: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 192: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 197: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 207: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 212: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 220: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 237: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 245: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 251: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 257: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 270: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 275: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 285: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 290: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 298: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 308: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 316: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 322: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 328: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 341: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 348: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 356: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 363: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 371: Result of <arg fmt="%d" index="1">11</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 380: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 388: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 394: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 400: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 413: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 420: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 428: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 435: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 443: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">10</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 501: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 502: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 503: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 504: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">14</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\clyde_controller.v" Line 522: Result of <arg fmt="%d" index="1">2</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ghost_chase.v" Line 39: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 370: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 373: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 376: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 387: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 397: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 400: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 403: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 406: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 423: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 426: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 429: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 432: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 2197: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 2198: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 2199: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 2200: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman_movement_tile.v" Line 2362: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\movement_tile.v" Line 1859: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\movement_tile.v" Line 1860: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\movement_tile.v" Line 1861: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\movement_tile.v" Line 1862: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">1</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\blinky_rom.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">blinky_rom</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\score_rom.v" Line 242: Result of <arg fmt="%d" index="1">6</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\score_rom.v" Line 251: Result of <arg fmt="%d" index="1">5</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">4</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\live_controller.v" Line 217: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\live_rom.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">live_rom</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\bonus_controller.v" Line 90: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\bonus_controller.v" Line 91: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">11</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\bonus_controller.v" Line 92: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\bonus_rom.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">bonus_rom</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\ipcore_dir\ready_mem.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">ready_mem</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\spimaster.v" Line 131: Assignment to <arg fmt="%s" index="1">z_axis_data</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\siren.v" Line 32: Result of <arg fmt="%d" index="1">23</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">22</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\siren.v" Line 39: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">15</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 35: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 48: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">12</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 63: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">9</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 64: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">10</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 65: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">9</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 66: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">9</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 67: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">10</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 68: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">out</arg>&gt;. Formal port size is <arg fmt="%d" index="2">9</arg>-bit while actual signal size is <arg fmt="%d" index="1">12</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 84: Result of <arg fmt="%d" index="1">10</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">9</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\waka_2.v" Line 87: Result of <arg fmt="%d" index="1">14</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">13</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v" Line 663: Assignment to <arg fmt="%s" index="1">soundEnded</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v" Line 664: Assignment to <arg fmt="%s" index="1">anySwitch</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v" Line 665: Assignment to <arg fmt="%s" index="1">soundStarts</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\format_data.v" Line 80: Assignment to <arg fmt="%s" index="1">rfd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\format_data.v" Line 82: Assignment to <arg fmt="%s" index="1">rmd</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v</arg>&quot; line <arg fmt="%s" index="2">649</arg>: Output port &lt;<arg fmt="%s" index="3">soundEnded</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pacman_music</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v</arg>&quot; line <arg fmt="%s" index="2">649</arg>: Output port &lt;<arg fmt="%s" index="3">anySwitch</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pacman_music</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\pacman.v</arg>&quot; line <arg fmt="%s" index="2">649</arg>: Output port &lt;<arg fmt="%s" index="3">soundStarts</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pacman_music</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">xAxis&lt;3:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">yAxis&lt;3:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Sw_intermission</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Sw_extrapac</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Sw_wakka</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_death6</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_wakka_converted</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">in&lt;9:9&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_eatghost6</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_eatfruit6</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_beginning_converted</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="warning" file="Xst" num="2999" delta="old" >Signal &apos;<arg fmt="%s" index="1">mem</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">pacman_extrapac6</arg>&apos;, is tied to its initial value.
+</msg>
+
+<msg type="warning" file="Xst" num="3035" delta="old" >Index value(s) does not match array range for signal &lt;<arg fmt="%s" index="1">mem</arg>&gt;, simulation mismatch.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\format_data.v</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">fractional</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Division</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">\\inf-server\vakerlis\courses\pacman_all\Pacma_ACL_v1\format_data.v</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">rfd</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">Division</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">BCDOUT&lt;15:12&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="old" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_zero_pixel[1]_PWR_34_o_wide_mux_37_OUT</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_one_pixel[1]_PWR_34_o_wide_mux_38_OUT</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram__n2798</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">death/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">death/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">wakka_converted/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">wakka_converted/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">eatghost/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">eatghost/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">eatfruit/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">eatfruit/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">intro/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">intro/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="info" file="Xst" num="3212" delta="old" >HDL ADVISOR - Asynchronous or synchronous initialization of the register &lt;<arg fmt="%s" index="1">counter_in</arg>&gt; prevents it from being combined with the RAM &lt;<arg fmt="%s" index="2">extrapac6/Mram_mem</arg>&gt; for implementation as read-only block RAM.
+</msg>
+
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">extrapac6/Mram_mem</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">txdata_0</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_4</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_5</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_6</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">txdata_14</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">SPImaster</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">fsmfake0_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pacman_image_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">fsmfake0_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pacman_image_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">score_pixel_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">score_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;score_pixel_2&gt; &lt;score_pixel_4&gt; &lt;score_pixel_5&gt; &lt;score_pixel_6&gt; &lt;score_pixel_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">score_pixel_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">score_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;score_pixel_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">txdata_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">SPImaster</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;txdata_11&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="1293" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">SPI/C1/tx_shift_register_2</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">SPI/C1/tx_shift_register_1</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1896" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">SPI/C1/tx_shift_register_0</arg>&gt; has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/BCDOUT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/BCDOUT_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/BCDOUT_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/BCDOUT_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/YFDATA/BtoBCD/BCDOUT_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/YFDATA/BtoBCD/BCDOUT_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/YFDATA/BtoBCD/BCDOUT_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">FormatData/YFDATA/BtoBCD/BCDOUT_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">pacman</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">live_control/timer_2</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">live_control/timer_1</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">pacman_music/counterForEachFreq_11</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1895" delta="old" >Due to other FF/Latch trimming, FF/Latch &lt;<arg fmt="%s" index="1">pacman_music/counterForEachFreq_10</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">pacman</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/shiftCount_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/shiftCount_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/shiftCount_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/shiftCount_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/shiftCount_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/shiftCount_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/shiftCount_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/shiftCount_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/shiftCount_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/shiftCount_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">inky_control/inky_state_FSM_FFd1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;inky_control/inky_image_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/STATE_FSM_FFd1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/STATE_FSM_FFd1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">FormatData/XFDATA/BtoBCD/STATE_FSM_FFd2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;FormatData/YFDATA/BtoBCD/STATE_FSM_FFd2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_control/pacman_state_FSM_FFd2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;pacman_control/fsmfake0_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink_counter_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink_counter_0&gt; &lt;pinky_control/blink_counter_0&gt; &lt;inky_control/blink_counter_0&gt; &lt;clyde_control/blink_counter_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink_counter_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink_counter_1&gt; &lt;pinky_control/blink_counter_1&gt; &lt;inky_control/blink_counter_1&gt; &lt;clyde_control/blink_counter_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink_counter_2</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink_counter_2&gt; &lt;pinky_control/blink_counter_2&gt; &lt;inky_control/blink_counter_2&gt; &lt;clyde_control/blink_counter_2&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink_counter_3</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink_counter_3&gt; &lt;pinky_control/blink_counter_3&gt; &lt;inky_control/blink_counter_3&gt; &lt;clyde_control/blink_counter_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink_counter_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink_counter_4&gt; &lt;pinky_control/blink_counter_4&gt; &lt;inky_control/blink_counter_4&gt; &lt;clyde_control/blink_counter_4&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">pacman_board/blink</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">pacman</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;blinky_control/blink&gt; &lt;pinky_control/blink&gt; &lt;inky_control/blink&gt; &lt;clyde_control/blink&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2254" delta="old" >Area constraint could not be met for block &lt;<arg fmt="%s" index="1">pacman</arg>&gt;, final ratio is <arg fmt="%i" index="2">118</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

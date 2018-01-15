@@ -1,0 +1,14 @@
+
+
+
+// Instantiate the module
+ssdCtrl instance_name (
+    .CLK(CLK), 
+    .RST(RST), 
+    .x_DIN(x_DIN), 
+    .y_DIN(y_DIN), 
+    .x_bcdData(x_bcdData), 
+    .y_bcdData(y_bcdData)
+    );
+
+

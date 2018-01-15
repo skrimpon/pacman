@@ -1,0 +1,104 @@
+--------------------------------------------------------------------------------
+Release 14.6 Trace  (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.6\ISE_DS\ISE\bin\nt\unwrapped\trce.exe -intstyle ise -v 3 -s 3 -n
+3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf
+pacman.ucf
+
+Design file:              pacman.ncd
+Physical constraint file: pacman.pcf
+Device,package,speed:     xc6slx16,csg324,C,-3 (PRODUCTION 1.23 2013-06-08)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock clk
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+SDI         |    4.901(R)|      SLOW  |   -2.870(R)|      FAST  |VGA_CLK           |   0.000|
+pause       |   11.187(R)|      SLOW  |   -3.842(R)|      FAST  |VGA_CLK           |   0.000|
+reset       |    9.128(R)|      SLOW  |   -2.478(R)|      FAST  |FPGA_CLK          |   0.000|
+            |    8.608(R)|      SLOW  |   -4.586(R)|      FAST  |SOUND_CLK         |   0.000|
+            |   14.369(R)|      SLOW  |   -2.266(R)|      FAST  |VGA_CLK           |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Clock clk to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+Hsync       |         8.464(R)|      SLOW  |         4.050(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<0>      |        23.738(R)|      SLOW  |         4.500(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<1>      |        23.855(R)|      SLOW  |         4.544(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<2>      |        23.780(R)|      SLOW  |         4.484(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<3>      |        23.807(R)|      SLOW  |         4.422(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<4>      |        23.921(R)|      SLOW  |         4.838(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<5>      |        23.918(R)|      SLOW  |         4.602(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<6>      |        22.937(R)|      SLOW  |         3.949(R)|      FAST  |VGA_CLK           |   0.000|
+RGB<7>      |        22.456(R)|      SLOW  |         3.886(R)|      FAST  |VGA_CLK           |   0.000|
+SCLK        |         3.753(R)|      SLOW  |         2.200(R)|      FAST  |VGA_CLK           |   0.000|
+SDO         |         3.749(R)|      SLOW  |         2.196(R)|      FAST  |VGA_CLK           |   0.000|
+SS          |         3.749(R)|      SLOW  |         2.196(R)|      FAST  |VGA_CLK           |   0.000|
+Vsync       |         7.386(R)|      SLOW  |         3.946(R)|      FAST  |VGA_CLK           |   0.000|
+siren_pin   |         9.350(R)|      SLOW  |         6.006(R)|      FAST  |SOUND_CLK         |   0.000|
+            |        10.519(R)|      SLOW  |         6.670(R)|      FAST  |VGA_CLK           |   0.000|
+speaker     |         7.205(R)|      SLOW  |         4.625(R)|      FAST  |FPGA_CLK          |   0.000|
+            |        10.728(R)|      SLOW  |         6.919(R)|      FAST  |VGA_CLK           |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock to Setup on destination clock clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk            |   50.517|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+grid           |RGB<0>         |   12.759|
+grid           |RGB<1>         |   12.655|
+grid           |RGB<2>         |   12.580|
+grid           |RGB<3>         |   12.224|
+grid           |RGB<4>         |   13.046|
+grid           |RGB<5>         |   12.512|
+grid           |RGB<6>         |   12.237|
+grid           |RGB<7>         |   11.983|
+---------------+---------------+---------+
+
+
+Analysis completed Fri Aug 08 21:29:12 2014 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 203 MB
+
+
+

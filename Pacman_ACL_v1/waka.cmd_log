@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Pacma_ACL_v1 -o C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/waka.tfi -lib work C:/Users/Skrimponis/Desktop/Pacma_ACL_v1//waka.v -module waka -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 

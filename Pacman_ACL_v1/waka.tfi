@@ -1,0 +1,24 @@
+
+
+
+// Instantiate the module
+waka instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .Sw_waka(Sw_waka), 
+    .Sw_eatghost(Sw_eatghost), 
+    .Sw_death(Sw_death), 
+    .Sw_intermission(Sw_intermission), 
+    .Sw_extrapac(Sw_extrapac), 
+    .Sw_eatfruit(Sw_eatfruit), 
+    .Sw_wakka(Sw_wakka), 
+    .Sw_intro(Sw_intro), 
+    .extrapac6_btnr(extrapac6_btnr), 
+    .Sw_intermission2(Sw_intermission2), 
+    .speaker(speaker), 
+    .soundEnded(soundEnded), 
+    .anySwitch(anySwitch), 
+    .soundStarts(soundStarts)
+    );
+
+

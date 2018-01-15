@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+siren instance_name (
+    .clk(clk), 
+    .speaker_en(speaker_en), 
+    .speaker_2(speaker_2), 
+    .speaker(speaker)
+    );
+
+

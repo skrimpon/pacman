@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=G:\courses\pacman_all\Pacma_ACL_v1\pacman.ncd
+OUTFILE=G:\courses\pacman_all\Pacma_ACL_v1\pacman.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=G:\courses\pacman_all\Pacma_ACL_v1
+LICENSE=ISE
+USER_INFO=174166739_174166740_210572977_465

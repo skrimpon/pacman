@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="sim" num="172" delta="old" >Generating IP...
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find g</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\g</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find ga</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\ga</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find gam</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\gam</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_o</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_o</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_ov</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_ov</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_ove</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_ove</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_m</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_m</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_me</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_me</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_mes</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_mes</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_mess</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_mess</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_mess.</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_mess.</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_mess.c</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_mess.c</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Unable to find game_over_mess.co</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   Coregen is looking for</arg>
+</msg>
+
+<msg type="error" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">   I:\Unsorted\Pacman\Pacman_ACL\ipcore_dir\game_over_mess.co</arg>
+</msg>
+
+<msg type="info" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Pre-processing HDL files for &apos;game_over_rom&apos;...</arg>
+</msg>
+
+<msg type="warning" file="sim" num="0" delta="new" ><arg fmt="%s" index="1">Overwriting existing file I:/Unsorted/Pacman/Pacman_ACL/ipcore_dir/tmp/_cg/game_over_rom/doc/blk_mem_gen_v7_3_vinfo.html with file from view xilinx_documentation</arg>
+</msg>
+
+<msg type="info" file="sim" num="949" delta="old" >Finished generation of ASY schematic symbol.
+</msg>
+
+<msg type="info" file="sim" num="948" delta="old" >Finished FLIST file generation.
+</msg>
+
+</messages>
+

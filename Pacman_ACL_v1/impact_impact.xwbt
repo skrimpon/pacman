@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/skrimpon/Downloads/Pacma_ACL_v1/impact.xsl
+OUTFILE=/home/skrimpon/Downloads/Pacma_ACL_v1/impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=/home/skrimpon/Downloads/Pacma_ACL_v1
+LICENSE=iMPACT
+USER_INFO=iMPACT

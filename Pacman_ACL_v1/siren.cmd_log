@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Pacma_ACL_v1 -o G:/courses/Pacma_ACL_v1/siren.tfi -lib work G:/courses/Pacma_ACL_v1//siren.v -module siren -template C:/Xilinx/14.6/ISE_DS/ISE//data/tfi.tft -deleteonerror 

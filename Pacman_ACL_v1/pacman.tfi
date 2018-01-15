@@ -1,0 +1,20 @@
+
+
+
+// Instantiate the module
+pacman instance_name (
+    .clk(clk), 
+    .reset(reset), 
+    .pause(pause), 
+    .SDI(SDI), 
+    .grid(grid), 
+    .SS(SS), 
+    .SDO(SDO), 
+    .SCLK(SCLK), 
+    .Hsync(Hsync), 
+    .Vsync(Vsync), 
+    .speaker(speaker), 
+    .RGB(RGB)
+    );
+
+

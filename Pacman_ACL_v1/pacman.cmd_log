@@ -1,0 +1,631 @@
+xst -intstyle ise -ifn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.xst" -ofn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.syr" 
+xst -intstyle ise -ifn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.xst" -ofn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.syr" 
+xst -intstyle ise -ifn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.xst" -ofn "/home/inf2010/skrimpon/FPGA/Code/Games/Pacman_ACM/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_BTN/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+xst -intstyle ise -ifn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.xst" -ofn "C:/Users/skrimponi/Documents/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "I:/Unsorted/Pacman/Pacman_ACL/pacman.xst" -ofn "I:/Unsorted/Pacman/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+vhdtdtfi -lang verilog -prj Pacman_ACL -o C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.tfi -lib work C:/Users/Skrimponis/Desktop/Pacman_ACL//pacman.v -module pacman -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lib work C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.v -lang verilog -prj Pacman_ACL -o pacman.spl -module pacman -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 pacman.spl C:/Users/Skrimponis/Desktop/Pacman_ACL/pacman.sym 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.xst" -ofn "C:/Users/Skrimponis/Desktop/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+xst -intstyle ise -ifn "G:/pacman/Pacma_ACL_v1/pacman.xst" -ofn "G:/pacman/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/pacman/Pacma_ACL_v1/pacman.xst" -ofn "G:/pacman/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/pacman/Pacma_ACL_v1/pacman.xst" -ofn "G:/pacman/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/pacman/Pacma_ACL_v1/pacman.xst" -ofn "G:/pacman/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "G:/courses/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.xst" -ofn "/home/skrimpon/Downloads/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 
+xst -intstyle ise -ifn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.xst" -ofn "G:/courses/pacman_all/Pacma_ACL_v1/pacman.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc pacman.ucf -p xc6slx16-csg324-3 pacman.ngc pacman.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o pacman_map.ncd pacman.ngd pacman.pcf 
+par -w -intstyle ise -ol high -mt off pacman_map.ncd pacman.ncd pacman.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml pacman.twx pacman.ncd -o pacman.twr pacman.pcf -ucf pacman.ucf 
+bitgen -intstyle ise -f pacman.ut pacman.ncd 

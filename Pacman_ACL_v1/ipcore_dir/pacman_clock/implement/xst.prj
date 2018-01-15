@@ -1,0 +1,2 @@
+verilog work ../../pacman_clock.v
+verilog work ../example_design/pacman_clock_exdes.v
